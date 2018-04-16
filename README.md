@@ -5,7 +5,9 @@
 This repository contains supplementary material for the GECCO-18 paper:
 
 ```
-Jérôme Guzzi, Alessandro Giusti, Luca M. Gambardella and Gianni A. Di Caro. 2018. A Model of Artificial Emotions for Behavior-Modulation and Implicit Coordination in Multi-robot Systems. In GECCO ’18: Genetic and Evolutionary Computation Conference, July 15–19, 2018, Kyoto, Japan. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3205455.3205650
+Jérôme Guzzi, Alessandro Giusti, Luca M. Gambardella and Gianni A. Di Caro. 2018. 
+A Model of Artificial Emotions for Behavior-Modulation and Implicit Coordination in Multi-robot Systems. 
+In GECCO ’18: Genetic and Evolutionary Computation Conference, July 15–19, 2018, Kyoto, Japan. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3205455.3205650
 ```
 
 ## Source code
