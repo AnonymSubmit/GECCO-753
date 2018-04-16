@@ -32,7 +32,7 @@ make
 ./MultiAgent  --help
 ```
 
-## video
+## Video
 
 The folder contains a video that illustrate the experiments reported in the paper.
 
