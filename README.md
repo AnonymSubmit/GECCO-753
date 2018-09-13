@@ -72,7 +72,7 @@ All agents wants start on a circle and want to travel to the antipodal point. A 
 
 ### Enabling e cient activity of agents with time-critical tasks
 
-![URGENCY](https://raw.githubusercontent.com/jeguzzi/artificial-emotions/master/video/urgency.png)]
+![URGENCY](https://raw.githubusercontent.com/jeguzzi/artificial-emotions/master/video/urgency.png)
 
 Two kinds of agents move back and forth. On kind of agent has a maximal time to complete the traveling. When remaining time get low, the agents start to feel _urgency_ (purple), which cause them to move straighter. Agents that feel no urgency keep away from them.
 
