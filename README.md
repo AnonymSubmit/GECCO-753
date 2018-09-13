@@ -11,6 +11,32 @@ In GECCO ’18: Genetic and Evolutionary Computation Conference, July 15–19, 2
 https://doi.org/10.1145/3205455.3205650
 ```
 
+## Read the paper
+
+The paper is available online at https://dl.acm.org/authorize?N653886
+
+## Cite the paper
+
+```bibtex
+@inproceedings{Guzzi:2018:MAE:3205455.3205650,
+ author = {Guzzi, J{\'e}r\^{o}me and Giusti, Alessandro and Gambardella, Luca M. and Di Caro, Gianni A.},
+ title = {A Model of Artificial Emotions for Behavior-modulation and Implicit Coordination in Multi-robot Systems},
+ booktitle = {Proceedings of the Genetic and Evolutionary Computation Conference},
+ series = {GECCO '18},
+ year = {2018},
+ isbn = {978-1-4503-5618-3},
+ location = {Kyoto, Japan},
+ pages = {21--28},
+ numpages = {8},
+ url = {http://doi.acm.org/10.1145/3205455.3205650},
+ doi = {10.1145/3205455.3205650},
+ acmid = {3205650},
+ publisher = {ACM},
+ address = {New York, NY, USA},
+ keywords = {artificial emotions, control architecture, multi-robot system},
+} 
+```
+
 ## Source code
 
 We provide an implementation in ObjC that uses the GNUstep runtime
